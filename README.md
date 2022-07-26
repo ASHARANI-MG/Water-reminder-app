@@ -1,6 +1,6 @@
 # Water-reminder-app
 
-Mobile Application Development project
+Mobile Application Development mini project
 
 Android studio
 
